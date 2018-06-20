@@ -4,5 +4,6 @@ This repository contains the files for my second capstone project with Springboa
 The files are as follows:
 
 1. This file == readme
-2. Beijing_AirQuality.ipynb == working notebook
+2. code/ == 6jupyter notebooks, each containing a section of the project
 3. PRSA_data_2010.1.1-2014.12.31.csv == data
+
